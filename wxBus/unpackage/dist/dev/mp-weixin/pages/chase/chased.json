@@ -1,0 +1,10 @@
+{
+  "navigationBarTitleText": "巴士集团公交服务微信受理",
+  "navigationBarBackgroundColor": "#BFDFFF",
+  "usingComponents": {
+    "rui-date-picker": "/components/rattenking-dtpicker/rattenking-dtpicker",
+    "w-picker": "/components/w-picker/w-picker",
+    "zlpicker": "/components/zhilin-picker/zhilin-picker",
+    "j-picker": "/components/J-Picker/jPicker"
+  }
+}
